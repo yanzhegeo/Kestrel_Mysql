@@ -1,0 +1,9 @@
+- Time: time of the aat data collection
+- aat: air temperature collected from mobile sensors, unit degree Celsius
+- temp_station: air temperature from AHN airport weather station, unit degree Celsius
+- solar_station: solar radiation from AHN airport weather station, unit W/m2
+- lst: land surface temperature collected from Lansat 8 ARD dataset, local pass time is 12:15pm, unit degree Celsius
+- veg_p: proportion of land cover being vegetion for the selected 30*30m pixel
+- man_p: proportion of land cover being manmade materials for the selected 30*30m pixel
+- wat_p: proportion of land cover being water body for the selected 30*30m pixel
+- canopyg_p: proportion of pixel have canopy >3 meters above ground for the selected 30*30m pixel
